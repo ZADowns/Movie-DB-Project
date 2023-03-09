@@ -1,0 +1,27 @@
+Monday
+Found api
+build webframe
+build erd
+
+Tuesday
+finish erd
+build basic page
+login/reg
+all the pages
+style
+
+Wednesday
+get api to work and connect
+
+thursday
+get extra pages like
+top rated movies, polish api work
+
+API Key (v3 auth)
+556261432d80c1379b4bcb73f32f673a
+
+Example API Request
+https://api.themoviedb.org/3/movie/550?api_key=556261432d80c1379b4bcb73f32f673a
+
+API Read Access Token (v4 auth)
+eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI1NTYyNjE0MzJkODBjMTM3OWI0YmNiNzNmMzJmNjczYSIsInN1YiI6IjYzNGRmNmRmMTJlYjg5MDA3ZDFmYzA0ZCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.8gIWSJwWMnQjJhIdMoKerF9RL04e8RNNN7rjghjRyiw
